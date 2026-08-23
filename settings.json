@@ -8,7 +8,7 @@
   "server": {
     "ip": "IPSP.aternos.me",
     "port": 36648,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
