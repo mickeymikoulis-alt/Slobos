@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "snailfish.aternos.host:36648",
+    "ip": "snailfish.aternos.host",
     "port": 36648,
-    "version": "26.2",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
