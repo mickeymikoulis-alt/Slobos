@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "IPSP.aternos.me",
+    "ip": "snailfish.aternos.host:36648",
     "port": 36648,
     "version": "26.2",
     "try-creative": false
