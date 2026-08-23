@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ImYu",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "AggelosNinja.aternos.me",
+    "ip": "IPSP.aternos.me",
     "port": 34433,
     "version": "",
     "try-creative": false
